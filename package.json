@@ -1,5 +1,5 @@
 {
-  "homepage": "https://tommygold12.github.io/Peace-of-Minds",
+  "homepage": "https://github.com/TommyGold12/Peace-of-Minds-master",
   "name": "food_app",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.2.0"
   }
 }
